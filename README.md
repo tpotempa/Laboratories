@@ -1,2 +1,2 @@
-# Laboratory 1.0 (BPMN 2.0 Laboratories)
+# Laboratory 1.0
 University Recruitment
