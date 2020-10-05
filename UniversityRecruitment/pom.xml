@@ -6,6 +6,7 @@
   <artifactId>UniversityRecruitment</artifactId>
   <version>1.0</version>
   <name>UniversityRecruitment</name>
+  <description>University Recruitment</description>
   <build>
     <plugins>
       <plugin>
